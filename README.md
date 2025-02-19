@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Nicolas Alexandre Torres Dias
+Matricula: 885506
 
 ## Tela de inspeção com navegador
-
+![alt text](<tabnews-elements.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<replit-helloworld.png>)
